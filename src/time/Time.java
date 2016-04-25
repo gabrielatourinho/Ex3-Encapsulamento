@@ -34,8 +34,8 @@ public class Time {
     
     public static void main(String[] args) {
         Time t = new Time();
-        t.setHour(04);
-        t.setMinute(23);
+        t.setHour(8);
+        t.setMinute(42);
         System.out.println("The time now is " + t.hour + ":" + t.minute);        
     }
     
